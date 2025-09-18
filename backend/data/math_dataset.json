@@ -1,0 +1,146 @@
+[
+  {
+    "id": "quad_formula",
+    "question": "What is the quadratic formula?",
+    "answer": "The quadratic formula is x = (-b \u00b1 \u221a(b\u00b2-4ac)) / (2a)",
+    "explanation": "This formula solves quadratic equations of the form ax\u00b2 + bx + c = 0",
+    "topic": "algebra",
+    "difficulty": "intermediate",
+    "keywords": [
+      "quadratic",
+      "formula",
+      "equation",
+      "roots"
+    ]
+  },
+  {
+    "id": "derivative_rules",
+    "question": "What are the basic derivative rules?",
+    "answer": "Power rule: d/dx(x^n) = nx^(n-1), Product rule: d/dx(uv) = u'v + uv', Chain rule: d/dx(f(g(x))) = f'(g(x))g'(x)",
+    "explanation": "These are the fundamental rules for finding derivatives in calculus",
+    "topic": "calculus",
+    "difficulty": "intermediate",
+    "keywords": [
+      "derivative",
+      "calculus",
+      "power rule",
+      "product rule",
+      "chain rule"
+    ]
+  },
+  {
+    "id": "pythagorean_theorem",
+    "question": "What is the Pythagorean theorem?",
+    "answer": "In a right triangle, a\u00b2 + b\u00b2 = c\u00b2, where c is the hypotenuse",
+    "explanation": "The square of the hypotenuse equals the sum of squares of the other two sides",
+    "topic": "geometry",
+    "difficulty": "basic",
+    "keywords": [
+      "pythagorean",
+      "theorem",
+      "triangle",
+      "hypotenuse",
+      "geometry"
+    ]
+  },
+  {
+    "id": "integration_basic",
+    "question": "What is integration?",
+    "answer": "Integration is the reverse process of differentiation, used to find areas under curves",
+    "explanation": "The integral \u222bf(x)dx represents the antiderivative of f(x) plus a constant",
+    "topic": "calculus",
+    "difficulty": "intermediate",
+    "keywords": [
+      "integration",
+      "integral",
+      "antiderivative",
+      "calculus"
+    ]
+  },
+  {
+    "id": "linear_equation",
+    "question": "How to solve linear equations?",
+    "answer": "For ax + b = c, solve by isolating x: x = (c - b) / a",
+    "explanation": "Linear equations have the form ax + b = c and can be solved by algebraic manipulation",
+    "topic": "algebra",
+    "difficulty": "basic",
+    "keywords": [
+      "linear",
+      "equation",
+      "algebra",
+      "solve"
+    ]
+  },
+  {
+    "id": "trig_identities",
+    "question": "What are basic trigonometric identities?",
+    "answer": "sin\u00b2\u03b8 + cos\u00b2\u03b8 = 1, tan \u03b8 = sin \u03b8 / cos \u03b8, sin(2\u03b8) = 2sin \u03b8 cos \u03b8",
+    "explanation": "These identities are fundamental relationships between trigonometric functions",
+    "topic": "trigonometry",
+    "difficulty": "intermediate",
+    "keywords": [
+      "trigonometry",
+      "identities",
+      "sin",
+      "cos",
+      "tan"
+    ]
+  },
+  {
+    "id": "factorial",
+    "question": "What is a factorial?",
+    "answer": "n! = n \u00d7 (n-1) \u00d7 (n-2) \u00d7 ... \u00d7 1, with 0! = 1",
+    "explanation": "Factorial is the product of all positive integers up to n",
+    "topic": "combinatorics",
+    "difficulty": "basic",
+    "keywords": [
+      "factorial",
+      "combinatorics",
+      "multiplication"
+    ]
+  },
+  {
+    "id": "slope_formula",
+    "question": "What is the slope formula?",
+    "answer": "slope = (y\u2082 - y\u2081) / (x\u2082 - x\u2081) for points (x\u2081,y\u2081) and (x\u2082,y\u2082)",
+    "explanation": "Slope measures the rate of change between two points on a line",
+    "topic": "algebra",
+    "difficulty": "basic",
+    "keywords": [
+      "slope",
+      "formula",
+      "line",
+      "rate",
+      "change"
+    ]
+  },
+  {
+    "id": "area_circle",
+    "question": "What is the area of a circle?",
+    "answer": "Area = \u03c0r\u00b2, where r is the radius",
+    "explanation": "The area of a circle is pi times the square of its radius",
+    "topic": "geometry",
+    "difficulty": "basic",
+    "keywords": [
+      "area",
+      "circle",
+      "radius",
+      "pi",
+      "geometry"
+    ]
+  },
+  {
+    "id": "solve_quadratic",
+    "question": "How to solve x\u00b2 - 5x + 6 = 0?",
+    "answer": "x = 2 or x = 3",
+    "explanation": "Factor as (x-2)(x-3) = 0 or use quadratic formula",
+    "topic": "algebra",
+    "difficulty": "intermediate",
+    "keywords": [
+      "quadratic",
+      "solve",
+      "factoring",
+      "equation"
+    ]
+  }
+]
